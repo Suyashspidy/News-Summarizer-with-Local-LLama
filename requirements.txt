@@ -1,0 +1,5 @@
+streamlit
+langchain==0.0.152
+pyllamacpp==1.0.7
+newspaper3k
+python-dotenv
