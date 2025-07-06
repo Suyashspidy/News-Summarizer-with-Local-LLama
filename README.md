@@ -1,5 +1,6 @@
 # News Article Summarizer with Local Llama 3
-Consider replacing this with an actual screenshot or GIF of your running Streamlit application!
+![Capture](https://github.com/user-attachments/assets/6f08c7dc-cffd-456f-8db6-826dd2430f33)
+![Capture2](https://github.com/user-attachments/assets/2fb66079-62f0-44ff-8c8d-178d2f99e61d)
 
 Table of Contents
 Overview
