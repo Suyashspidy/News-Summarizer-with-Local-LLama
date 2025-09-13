@@ -214,4 +214,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Contact
 Suyash Saxena
-[Your LinkedIn Profile (https://www.linkedin.com/in/suyashsaxena1/)]
+https://www.linkedin.com/in/suyashsaxena1/
